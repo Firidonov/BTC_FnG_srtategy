@@ -36,3 +36,6 @@
         
         1. _Correlation_ between two values is <br> *0.4242930280608611*
         2. ![corr](/home/x_ray_trader/ML/BTC_strategy_on_FnG)
+        3.  Final Cash: $900.00
+            Final BTC Holdings: 0.139018 BTC
+            Final Portfolio Value: $14369.06
